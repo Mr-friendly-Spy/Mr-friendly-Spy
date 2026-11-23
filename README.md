@@ -19,6 +19,7 @@
   <a href="https://github.com/Mr-friendly-Spy?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="My repositories"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Mr-friendly-Spy&amp;style=for-the-badge&amp;color=84CC16&amp;label=VIEWS" alt="Profile views"/>
 
 </div>
 
