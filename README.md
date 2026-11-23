@@ -6,63 +6,63 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=84CC16&center=true&vCenter=true&width=650&lines=C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Game+development+with+Unity+%26+Unreal+Engine;Tools%2C+chatbots+%26+automation;From+an+idea+to+a+playable+game" alt="C++, C#, Python · Unity и Unreal Engine · Инструменты и чат-боты"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=84CC16&center=true&vCenter=true&width=650&lines=C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Game+development+with+Unity+%26+Unreal+Engine;Tools%2C+chatbots+%26+automation;From+an+idea+to+a+playable+game" alt="C++, C#, Python · Unity and Unreal Engine · Tools and chatbots"/>
 
   <br/><br/>
 
   <a href="https://vkplay.ru/play/game/tinyswords-kingdoms-49863/">
-    <img src="https://img.shields.io/badge/VK%20Play-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF" alt="Tiny Swords: Kingdoms на VK Play"/>
+    <img src="https://img.shields.io/badge/VK%20Play-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF" alt="Tiny Swords: Kingdoms on VK Play"/>
   </a>
   <a href="https://www.youtube.com/watch?v=rC5Em4xEyeA&amp;t=2494s">
     <img src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
   </a>
   <a href="https://github.com/Mr-friendly-Spy?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Мои репозитории"/>
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="My repositories"/>
   </a>
 
 </div>
 
 <!-- ABOUT -->
 
-## 👋 Обо мне
+## 👋 About Me
 
-> *Разрабатываю игры, автоматизирую рутину и разбираюсь в том, как программы устроены изнутри.*
+> *I build games, automate everyday tasks, and explore how software works under the hood.*
 
 ```yaml
 name:       Egorik
 nickname:   Mr-friendly-Spy
 focus:      Game Development · Software Development
 languages:  C++ · C# · Python
-building:   игры · инструменты · REST API · чат-боты
-approach:   ООП · проектирование · практика
+building:   games · tools · REST APIs · chatbots
+approach:   OOP · software design · hands-on development
 ```
 
-Работаю с **Unity** и **Unreal Engine**, создаю ландшафты в **Gaea**, проектирую макеты и UML-диаграммы в **Figma**. Есть опыт работы с **Linux**, контейнерами **Docker**, виртуальными машинами **VirtualBox** и облачными сервисами **VK Cloud**. Использую **Ghidra** для изучения и анализа программ.
+I work with **Unity** and **Unreal Engine**, create terrain in **Gaea**, and design mockups and UML diagrams in **Figma**. I have experience with **Linux**, **Docker** containers, **VirtualBox** virtual machines, and **VK Cloud** services. I use **Ghidra** to explore and analyze software.
 
 <!-- STACK -->
 
-## 🚀 Технологии и инструменты
+## 🚀 Tech Stack
 
-**Языки программирования**
+**Programming Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 
-**Разработка игр и окружения**
+**Game Development & Environments**
 
 ![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F172A?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
 ![Gaea](https://img.shields.io/badge/Gaea-0F172A?style=for-the-badge)
 
-**Backend и данные**
+**Backend & Data**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 ![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=54B4E6)
 ![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge)
 
-**Контейнеры, облако и виртуализация**
+**Containers, Cloud & Virtualization**
 
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
@@ -70,7 +70,7 @@ approach:   ООП · проектирование · практика
 ![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-0F172A?style=for-the-badge&logo=virtualbox&logoColor=2F61B4)
 
-**Проектирование, анализ и среды разработки**
+**Design, Analysis & Development Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![UML](https://img.shields.io/badge/UML-0F172A?style=for-the-badge)
@@ -82,40 +82,40 @@ approach:   ООП · проектирование · практика
 
 <!-- EXPERIENCE -->
 
-## 🛠️ Практический опыт
+## 🛠️ Hands-on Experience
 
-| Направление | С чем работаю |
+| Area | Experience |
 | :--- | :--- |
-| 🎮 **Разработка видеоигр** | Unity, Unreal Engine, C# и C++; разработка игровых проектов и публикация игры на VK Play |
-| 🏔️ **Ландшафты и дизайн** | Gaea для создания рельефа; Figma для макетов и UML-диаграмм |
-| 🧩 **Проектирование** | ООП, разделение программы на классы и модули, описание структуры приложения |
-| ⚙️ **Инструменты и автоматизация** | Python-утилиты, обработка документов, парсинг данных, участие в разработке генератора синтетических аэрофотоснимков |
-| 🤖 **Чат-боты и сервисы** | Участие в разработке Market Mate; REST API, FastAPI, SQLite |
-| ☁️ **Инфраструктура** | Linux, Docker и Docker Compose, VirtualBox, облачные сервисы VK Cloud |
-| 🔍 **Анализ программ** | Работа в Ghidra, изучение внутреннего устройства программ |
+| 🎮 **Game Development** | Unity, Unreal Engine, C#, and C++; developing games and publishing a game on VK Play |
+| 🏔️ **Terrain & Design** | Terrain creation in Gaea; mockups and UML diagrams in Figma |
+| 🧩 **Software Design** | OOP, organizing code into classes and modules, and documenting application structure |
+| ⚙️ **Tools & Automation** | Python utilities, document processing, web scraping, and contributions to a synthetic aerial imagery generator |
+| 🤖 **Chatbots & Services** | Contributions to Market Mate; REST APIs, FastAPI, and SQLite |
+| ☁️ **Infrastructure** | Linux, Docker and Docker Compose, VirtualBox, and VK Cloud services |
+| 🔍 **Software Analysis** | Using Ghidra to explore software internals |
 
 <!-- ACHIEVEMENTS -->
 
-## 🏆 Что уже сделано
+## 🏆 Milestones
 
-- 🎮 **Опубликована игра [Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/) на VK Play.**
-- 🤝 **Участие в командных проектах:** [open_air](https://github.com/EvgenieLebedev/open_air) для генерации синтетических аэрофотоснимков и чат-бот [Market Mate](https://github.com/Geeri45/Market_Mate).
-- 🧰 **Собственные прикладные проекты:** автоматизация офисных задач, сбор данных, сервис обмена информацией об угрозах и каталог уязвимостей.
+- 🎮 **Published [Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/) on VK Play.**
+- 🤝 **Contributed to team projects:** [open_air](https://github.com/EvgenieLebedev/open_air) for synthetic aerial imagery generation and the [Market Mate](https://github.com/Geeri45/Market_Mate) chatbot.
+- 🧰 **Built practical tools:** office automation utilities, a web scraper, a threat information exchange service, and a vulnerability catalog.
 
 <!-- PROJECTS -->
 
-## 🗂️ Избранные проекты
+## 🗂️ Portfolio Highlights
 
-| Проект | Что делает | Технологии / направление |
+| Project | What It Does | Stack / Focus |
 | :--- | :--- | :--- |
-| 🎮 **[Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/)** | Мой игровой проект, опубликованный на VK Play | `Game Development` |
-| 🛰️ **[open_air](https://github.com/EvgenieLebedev/open_air)** | Командный проект: генерация синтетических аэрофотоснимков по 3D-тайлам, сохранение GPS EXIF и траектории | `Python` · `Flask` · `CesiumJS` |
-| 🤖 **[Market Mate](https://github.com/Geeri45/Market_Mate)** | Командный проект: участие в разработке чат-бота | `Chatbots` |
-| 🛡️ **[ThreatExchange](https://github.com/Mr-friendly-Spy/ThreatExchange)** | REST-сервис для обмена информацией об угрозах по MD5, с контейнерным запуском | `Python` · `FastAPI` · `SQLite` · `Docker` |
-| 📄 **[Office_Tweaks](https://github.com/Mr-friendly-Spy/Office_Tweaks)** | CLI-утилита для конвертации PDF/DOCX, сжатия изображений и работы с файлами | `Python` · `CLI` |
-| 🔎 **[vulnerability-catalog](https://github.com/Mr-friendly-Spy/vulnerability-catalog)** | Импорт JSON-фидов в SQLite и проверка версий продуктов по каталогу уязвимостей | `Python` · `SQLite` · `SQL` |
-| 🌐 **[The_Parser_](https://github.com/Mr-friendly-Spy/The_Parser_)** | Сбор данных об автосервисах Москвы с сохранением в CSV | `Python` · `Parsing` |
-| 🎡 **[Wheel of Fortune](https://github.com/Mr-friendly-Spy/wheel-of-fortune-game)** | Консольная игра «Поле чудес»: уровни сложности, статистика и сохранение рекордов | `Python` · `OOP` |
+| 🎮 **[Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/)** | My game, published on VK Play | `Game Development` |
+| 🛰️ **[open_air](https://github.com/EvgenieLebedev/open_air)** | Team project: generates synthetic aerial imagery from 3D tiles, with GPS EXIF metadata and trajectory exports | `Python` · `Flask` · `CesiumJS` |
+| 🤖 **[Market Mate](https://github.com/Geeri45/Market_Mate)** | Team project: contributed to chatbot development | `Chatbots` |
+| 🛡️ **[ThreatExchange](https://github.com/Mr-friendly-Spy/ThreatExchange)** | REST service for exchanging threat information by MD5, with Docker deployment | `Python` · `FastAPI` · `SQLite` · `Docker` |
+| 📄 **[Office_Tweaks](https://github.com/Mr-friendly-Spy/Office_Tweaks)** | CLI utility for PDF/DOCX conversion, image compression, and file management | `Python` · `CLI` |
+| 🔎 **[vulnerability-catalog](https://github.com/Mr-friendly-Spy/vulnerability-catalog)** | Imports JSON feeds into SQLite and checks product versions against a vulnerability catalog | `Python` · `SQLite` · `SQL` |
+| 🌐 **[The_Parser_](https://github.com/Mr-friendly-Spy/The_Parser_)** | Scrapes information about car service centers in Moscow and exports it to CSV | `Python` · `Parsing` |
+| 🎡 **[Wheel of Fortune](https://github.com/Mr-friendly-Spy/wheel-of-fortune-game)** | Console word-guessing game with difficulty levels, statistics, and saved high scores | `Python` · `OOP` |
 
 <!-- STATS -->
 
@@ -123,12 +123,12 @@ approach:   ООП · проектирование · практика
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&show_icons=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" alt="Статистика GitHub Mr-friendly-Spy"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&layout=compact&langs_count=6&title_color=84cc16&text_color=ffffff&bg_color=0f172a&hide_border=true&custom_title=Most%20Used%20Languages" alt="Языки в публичных репозиториях"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&show_icons=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" alt="Mr-friendly-Spy's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&layout=compact&langs_count=6&title_color=84cc16&text_color=ffffff&bg_color=0f172a&hide_border=true&custom_title=Most%20Used%20Languages" alt="Languages used in public repositories"/>
 
   <br/><br/>
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-friendly-Spy&bg_color=0f172a&color=84cc16&line=0891b2&point=ffffff&area=true&area_color=84cc16&hide_border=true&custom_title=Contribution%20Activity" alt="График активности Mr-friendly-Spy"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-friendly-Spy&bg_color=0f172a&color=84cc16&line=0891b2&point=ffffff&area=true&area_color=84cc16&hide_border=true&custom_title=Contribution%20Activity" alt="Mr-friendly-Spy's contribution activity"/>
 
 </div>
 
@@ -137,7 +137,7 @@ approach:   ООП · проектирование · практика
 <br/>
 
 <div align="center">
-  <i>От идеи — к работающему инструменту и игре, в которую можно сыграть.</i>
+  <i>From an idea to a working tool or a playable game.</i>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0891b2,100:0f172a&height=120&section=footer" alt="Декоративная волна"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0891b2,100:0f172a&height=120&section=footer" alt="Decorative wave"/>
