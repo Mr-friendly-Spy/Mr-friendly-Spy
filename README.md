@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <a href="https://github.com/Mr-friendly-Spy">
-  <img width="100%" src="./assets/game-dev-banner.png" alt="Mr-friendly-Spy — game development, coding, and terrain creation"/>
+  <img width="100%" src="./assets/game-dev-banner-animated.svg" alt="Mr-friendly-Spy — animated game development and coding banner"/>
 </a>
 
 <div align="center">
