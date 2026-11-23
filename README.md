@@ -29,7 +29,7 @@
 > *Разрабатываю игры, автоматизирую рутину и разбираюсь в том, как программы устроены изнутри.*
 
 ```yaml
-name:       Егор Дедяев
+name:       Egorik
 nickname:   Mr-friendly-Spy
 focus:      Game Development · Software Development
 languages:  C++ · C# · Python
