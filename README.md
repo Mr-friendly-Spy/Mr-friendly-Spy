@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <a href="https://github.com/Mr-friendly-Spy">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0891b2,100:84cc16&height=200&section=header&text=Mr-friendly-Spy&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Game%20Development%20%C2%B7%20Tools%20%C2%B7%20Backend&descSize=18&descAlignY=60&animation=fadeIn" alt="Mr-friendly-Spy — Game Development · Tools · Backend"/>
+  <img width="100%" src="./assets/game-dev-banner.png" alt="Mr-friendly-Spy — game development, coding, and terrain creation"/>
 </a>
 
 <div align="center">
