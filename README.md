@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=84CC16&center=true&vCenter=true&width=650&lines=C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Game+development+with+Unity+%26+Unreal+Engine;Tools%2C+chatbots+%26+automation;From+an+idea+to+a+playable+game" alt="C++, C#, Python · Unity and Unreal Engine · Tools and chatbots"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=84CC16&center=true&vCenter=true&width=650&lines=C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Game+dev%3A+Unity+%C2%B7+Unreal+Engine+%C2%B7+Godot;Tools%2C+chatbots+%26+automation;From+an+idea+to+a+playable+game" alt="C++, C#, Python · Unity, Unreal Engine, and Godot · Tools and chatbots"/>
 
   <br/><br/>
 
@@ -38,7 +38,7 @@ building:   games · tools · REST APIs · chatbots
 approach:   OOP · software design · hands-on development
 ```
 
-I work with **Unity** and **Unreal Engine**, create terrain in **Gaea**, and design mockups and UML diagrams in **Figma**. I have experience with **Linux**, **Docker** containers, **VirtualBox** virtual machines, and **VK Cloud** services. I use **Ghidra** to explore and analyze software.
+I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gaea**, and design mockups and UML diagrams in **Figma**. I have experience with **Linux**, **Docker** containers, **VirtualBox** virtual machines, and **VK Cloud** services. I use **Ghidra** to explore and analyze software.
 
 <!-- STACK -->
 
@@ -54,6 +54,7 @@ I work with **Unity** and **Unreal Engine**, create terrain in **Gaea**, and des
 
 ![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F172A?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
+![Godot](https://img.shields.io/badge/Godot-0F172A?style=for-the-badge&logo=godotengine&logoColor=478CBF)
 ![Gaea](https://img.shields.io/badge/Gaea-0F172A?style=for-the-badge)
 
 **Backend & Data**
@@ -87,7 +88,7 @@ I work with **Unity** and **Unreal Engine**, create terrain in **Gaea**, and des
 
 | Area | Experience |
 | :--- | :--- |
-| 🎮 **Game Development** | Unity, Unreal Engine, C#, and C++; developing games and publishing a game on VK Play |
+| 🎮 **Game Development** | Unity, Unreal Engine, Godot, C#, and C++; developing games and publishing a game on VK Play |
 | 🏔️ **Terrain & Design** | Terrain creation in Gaea; mockups and UML diagrams in Figma |
 | 🧩 **Software Design** | OOP, organizing code into classes and modules, and documenting application structure |
 | ⚙️ **Tools & Automation** | Python utilities, document processing, web scraping, and contributions to a synthetic aerial imagery generator |
