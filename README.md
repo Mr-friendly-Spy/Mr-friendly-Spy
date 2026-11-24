@@ -54,7 +54,7 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 ![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F172A?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
-![Godot](https://img.shields.io/badge/Godot-0F172A?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Godot](https://img.shields.io/badge/Godot-0F172A?logo=godotengine&logoColor=478CBF&style=for-the-badge)
 ![Gaea](https://img.shields.io/badge/Gaea-0F172A?style=for-the-badge)
 
 **`BACKEND / DATA`**
@@ -125,17 +125,17 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 <div align="center">
 
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&amp;show_icons=true&amp;title_color=f4f4f0&amp;text_color=d4d4d0&amp;icon_color=f4f4f0&amp;bg_color=191919&amp;border_color=747470&amp;border_radius=0&amp;hide_border=false" alt="Mr-friendly-Spy's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&amp;show_icons=true&amp;title_color=f4f4f0&amp;text_color=d4d4d0&amp;icon_color=f4f4f0&amp;bg_color=191919&amp;border_color=747470&amp;border_radius=0&amp;hide_border=false" alt="Mr-friendly-Spy's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&amp;layout=compact&amp;langs_count=6&amp;title_color=84cc16&amp;text_color=ffffff&amp;bg_color=0f172a&amp;hide_border=true&amp;custom_title=Most%20Used%20Languages" alt="Most Used Languages"/>
+
+  <br/><br/>
+
+  <img height="195" src="https://streak-stats.demolab.com/?user=Mr-friendly-Spy&amp;background=0F172A&amp;hide_border=true&amp;ring=84CC16&amp;fire=84CC16&amp;currStreakLabel=84CC16&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;sideLabels=FFFFFF&amp;dates=FFFFFF&amp;stroke=FFFFFF&amp;locale=en&amp;timezone=Europe%2FMoscow" alt="GitHub Streak — Total Contributions, Current Streak, and Longest Streak"/>
 
   <br/><br/>
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-friendly-Spy&amp;bg_color=191919&amp;color=d4d4d0&amp;line=f4f4f0&amp;point=f4f4f0&amp;area=true&amp;area_color=747470&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY" alt="Mr-friendly-Spy's contribution activity"/>
 
-  <br/><br/>
-
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&amp;layout=compact&amp;langs_count=6&amp;title_color=f4f4f0&amp;text_color=d4d4d0&amp;bg_color=191919&amp;border_radius=0&amp;custom_title=LANGUAGE%20BREAKDOWN">
-    <img src="./assets/pixel/badge-language-breakdown.svg" alt="View language breakdown"/>
-  </a>
 
 </div>
 
