@@ -27,7 +27,7 @@
 
 ## <img src="./assets/pixel/heading-about.svg" alt="01 / ABOUT ME" height="29">
 
-> *I build games, automate everyday tasks, and explore how software works under the hood.*
+> *I explore how software works under the hood, build games, and automate everyday tasks.*
 
 ```text
 name:       Egorik
