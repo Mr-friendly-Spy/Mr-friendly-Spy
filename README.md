@@ -11,15 +11,15 @@
   <br/><br/>
 
   <a href="https://vkplay.ru/play/game/tinyswords-kingdoms-49863/">
-    <img src="./assets/pixel/badge-vk-play.svg" alt="Tiny Swords: Kingdoms on VK Play"/>
+    <img src="https://img.shields.io/badge/VK%20Play-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF" alt="Tiny Swords: Kingdoms on VK Play"/>
   </a>
   <a href="https://www.youtube.com/watch?v=rC5Em4xEyeA&amp;t=2494s">
-    <img src="./assets/pixel/badge-youtube.svg" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
   </a>
   <a href="https://github.com/Mr-friendly-Spy?tab=repositories">
-    <img src="./assets/pixel/badge-github.svg" alt="My repositories"/>
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="My repositories"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mr-friendly-Spy&amp;style=for-the-badge&amp;color=747470&amp;label=VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mr-friendly-Spy&amp;style=for-the-badge&amp;color=84CC16&amp;label=VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -46,41 +46,41 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 **`LANGUAGES`**
 
-![C++](./assets/pixel/badge-cpp.svg)
-![C#](./assets/pixel/badge-csharp.svg)
-![Python](./assets/pixel/badge-python.svg)
+![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
 
 **`GAME DEVELOPMENT / ENVIRONMENTS`**
 
-![Unity](./assets/pixel/badge-unity.svg)
-![Unreal Engine](./assets/pixel/badge-unreal.svg)
-![Godot](./assets/pixel/badge-godot.svg)
-![Gaea](./assets/pixel/badge-gaea.svg)
+![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F172A?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
+![Godot](https://img.shields.io/badge/Godot-0F172A?style=for-the-badge&logo=godotengine&logoColor=478CBF)
+![Gaea](https://img.shields.io/badge/Gaea-0F172A?style=for-the-badge)
 
 **`BACKEND / DATA`**
 
-![FastAPI](./assets/pixel/badge-fastapi.svg)
-![Flask](./assets/pixel/badge-flask.svg)
-![SQLite](./assets/pixel/badge-sqlite.svg)
-![REST API](./assets/pixel/badge-rest.svg)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=54B4E6)
+![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge)
 
 **`CONTAINERS / CLOUD / VIRTUALIZATION`**
 
-![Docker](./assets/pixel/badge-docker.svg)
-![Docker Compose](./assets/pixel/badge-compose.svg)
-![Linux](./assets/pixel/badge-linux.svg)
-![VK Cloud](./assets/pixel/badge-vk-cloud.svg)
-![VirtualBox](./assets/pixel/badge-virtualbox.svg)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0F172A?style=for-the-badge&logo=virtualbox&logoColor=2F61B4)
 
 **`DESIGN / ANALYSIS / DEVELOPMENT`**
 
-![Figma](./assets/pixel/badge-figma.svg)
-![UML](./assets/pixel/badge-uml.svg)
-![OOP](./assets/pixel/badge-oop.svg)
-![Ghidra](./assets/pixel/badge-ghidra.svg)
-![Git](./assets/pixel/badge-git.svg)
-![VS Code](./assets/pixel/badge-vscode.svg)
-![PyCharm](./assets/pixel/badge-pycharm.svg)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![UML](https://img.shields.io/badge/UML-0F172A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-0F172A?style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-0F172A?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-0F172A?style=for-the-badge&logo=pycharm&logoColor=84CC16)
 
 <!-- EXPERIENCE -->
 
