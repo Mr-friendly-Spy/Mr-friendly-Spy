@@ -1,35 +1,35 @@
 <!-- HEADER -->
 
 <a href="https://github.com/Mr-friendly-Spy">
-  <img width="100%" src="./assets/game-dev-banner-animated.svg" alt="Mr-friendly-Spy — animated game development and coding banner"/>
+  <img width="100%" src="./assets/pixel/profile-banner-animated.svg" alt="Mr-friendly-Spy — monochrome pixel art game development and coding banner"/>
 </a>
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=84CC16&center=true&vCenter=true&width=650&lines=C%2B%2B+%C2%B7+C%23+%C2%B7+Python;Game+dev%3A+Unity+%C2%B7+Unreal+Engine+%C2%B7+Godot;Tools%2C+chatbots+%26+automation;From+an+idea+to+a+playable+game" alt="C++, C#, Python · Unity, Unreal Engine, and Godot · Tools and chatbots"/>
+  <img width="100%" src="./assets/pixel/status.svg" alt="C++, C#, Python / Unity, Unreal Engine, Godot / Tools, chatbots and automation"/>
 
   <br/><br/>
 
   <a href="https://vkplay.ru/play/game/tinyswords-kingdoms-49863/">
-    <img src="https://img.shields.io/badge/VK%20Play-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF" alt="Tiny Swords: Kingdoms on VK Play"/>
+    <img src="./assets/pixel/badge-vk-play.svg" alt="Tiny Swords: Kingdoms on VK Play"/>
   </a>
   <a href="https://www.youtube.com/watch?v=rC5Em4xEyeA&amp;t=2494s">
-    <img src="https://img.shields.io/badge/YouTube-0F172A?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+    <img src="./assets/pixel/badge-youtube.svg" alt="YouTube"/>
   </a>
   <a href="https://github.com/Mr-friendly-Spy?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="My repositories"/>
+    <img src="./assets/pixel/badge-github.svg" alt="My repositories"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Mr-friendly-Spy&amp;style=for-the-badge&amp;color=84CC16&amp;label=VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mr-friendly-Spy&amp;style=for-the-badge&amp;color=747470&amp;label=VIEWS" alt="Profile views"/>
 
 </div>
 
 <!-- ABOUT -->
 
-## 👋 About Me
+## <img src="./assets/pixel/heading-about.svg" alt="01 / ABOUT ME" height="29">
 
 > *I build games, automate everyday tasks, and explore how software works under the hood.*
 
-```yaml
+```text
 name:       Egorik
 nickname:   Mr-friendly-Spy
 focus:      Game Development · Software Development
@@ -42,95 +42,100 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 <!-- STACK -->
 
-## 🚀 Tech Stack
+## <img src="./assets/pixel/heading-stack.svg" alt="02 / TECH STACK" height="29">
 
-**Programming Languages**
+**`LANGUAGES`**
 
-![C++](https://img.shields.io/badge/C%2B%2B-0F172A?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0F172A?style=for-the-badge&logo=dotnet&logoColor=A78BFA)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](./assets/pixel/badge-cpp.svg)
+![C#](./assets/pixel/badge-csharp.svg)
+![Python](./assets/pixel/badge-python.svg)
 
-**Game Development & Environments**
+**`GAME DEVELOPMENT / ENVIRONMENTS`**
 
-![Unity](https://img.shields.io/badge/Unity-0F172A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0F172A?style=for-the-badge&logo=unrealengine&logoColor=FFFFFF)
-![Godot](https://img.shields.io/badge/Godot-0F172A?style=for-the-badge&logo=godotengine&logoColor=478CBF)
-![Gaea](https://img.shields.io/badge/Gaea-0F172A?style=for-the-badge)
+![Unity](./assets/pixel/badge-unity.svg)
+![Unreal Engine](./assets/pixel/badge-unreal.svg)
+![Godot](./assets/pixel/badge-godot.svg)
+![Gaea](./assets/pixel/badge-gaea.svg)
 
-**Backend & Data**
+**`BACKEND / DATA`**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Flask](https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=54B4E6)
-![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge)
+![FastAPI](./assets/pixel/badge-fastapi.svg)
+![Flask](./assets/pixel/badge-flask.svg)
+![SQLite](./assets/pixel/badge-sqlite.svg)
+![REST API](./assets/pixel/badge-rest.svg)
 
-**Containers, Cloud & Virtualization**
+**`CONTAINERS / CLOUD / VIRTUALIZATION`**
 
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VK Cloud](https://img.shields.io/badge/VK%20Cloud-0F172A?style=for-the-badge&logo=vk&logoColor=0077FF)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-0F172A?style=for-the-badge&logo=virtualbox&logoColor=2F61B4)
+![Docker](./assets/pixel/badge-docker.svg)
+![Docker Compose](./assets/pixel/badge-compose.svg)
+![Linux](./assets/pixel/badge-linux.svg)
+![VK Cloud](./assets/pixel/badge-vk-cloud.svg)
+![VirtualBox](./assets/pixel/badge-virtualbox.svg)
 
-**Design, Analysis & Development Tools**
+**`DESIGN / ANALYSIS / DEVELOPMENT`**
 
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![UML](https://img.shields.io/badge/UML-0F172A?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-0F172A?style=for-the-badge)
-![Ghidra](https://img.shields.io/badge/Ghidra-0F172A?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge)
-![PyCharm](https://img.shields.io/badge/PyCharm-0F172A?style=for-the-badge&logo=pycharm&logoColor=84CC16)
+![Figma](./assets/pixel/badge-figma.svg)
+![UML](./assets/pixel/badge-uml.svg)
+![OOP](./assets/pixel/badge-oop.svg)
+![Ghidra](./assets/pixel/badge-ghidra.svg)
+![Git](./assets/pixel/badge-git.svg)
+![VS Code](./assets/pixel/badge-vscode.svg)
+![PyCharm](./assets/pixel/badge-pycharm.svg)
 
 <!-- EXPERIENCE -->
 
-## 🛠️ Hands-on Experience
+## <img src="./assets/pixel/heading-experience.svg" alt="03 / EXPERIENCE" height="29">
 
 | Area | Experience |
 | :--- | :--- |
-| 🎮 **Game Development** | Unity, Unreal Engine, Godot, C#, and C++; developing games and publishing a game on VK Play |
-| 🏔️ **Terrain & Design** | Terrain creation in Gaea; mockups and UML diagrams in Figma |
-| 🧩 **Software Design** | OOP, organizing code into classes and modules, and documenting application structure |
-| ⚙️ **Tools & Automation** | Python utilities, document processing, web scraping, and contributions to a synthetic aerial imagery generator |
-| 🤖 **Chatbots & Services** | Contributions to Market Mate; REST APIs, FastAPI, and SQLite |
-| ☁️ **Infrastructure** | Linux, Docker and Docker Compose, VirtualBox, and VK Cloud services |
-| 🔍 **Software Analysis** | Using Ghidra to explore software internals |
+| **Game Development** | Unity, Unreal Engine, Godot, C#, and C++; developing games and publishing a game on VK Play |
+| **Terrain & Design** | Terrain creation in Gaea; mockups and UML diagrams in Figma |
+| **Software Design** | OOP, organizing code into classes and modules, and documenting application structure |
+| **Tools & Automation** | Python utilities, document processing, web scraping, and contributions to a synthetic aerial imagery generator |
+| **Chatbots & Services** | Contributions to Market Mate; REST APIs, FastAPI, and SQLite |
+| **Infrastructure** | Linux, Docker and Docker Compose, VirtualBox, and VK Cloud services |
+| **Software Analysis** | Using Ghidra to explore software internals |
 
 <!-- ACHIEVEMENTS -->
 
-## 🏆 Milestones
+## <img src="./assets/pixel/heading-milestones.svg" alt="04 / MILESTONES" height="29">
 
-- 🎮 **Published [Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/) on VK Play.**
-- 🤝 **Contributed to team projects:** [open_air](https://github.com/EvgenieLebedev/open_air) for synthetic aerial imagery generation and the [Market Mate](https://github.com/Geeri45/Market_Mate) chatbot.
-- 🧰 **Built practical tools:** office automation utilities, a web scraper, a threat information exchange service, and a vulnerability catalog.
+- **Published [Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/) on VK Play.**
+- **Contributed to team projects:** [open_air](https://github.com/EvgenieLebedev/open_air) for synthetic aerial imagery generation and the [Market Mate](https://github.com/Geeri45/Market_Mate) chatbot.
+- **Built practical tools:** office automation utilities, a web scraper, a threat information exchange service, and a vulnerability catalog.
 
 <!-- PROJECTS -->
 
-## 🗂️ Portfolio Highlights
+## <img src="./assets/pixel/heading-projects.svg" alt="05 / PROJECTS" height="29">
 
 | Project | What It Does | Stack / Focus |
 | :--- | :--- | :--- |
-| 🎮 **[Tiny Swords: Kingdoms](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/)** | My game, published on VK Play | `Game Development` |
-| 🛰️ **[open_air](https://github.com/EvgenieLebedev/open_air)** | Team project: generates synthetic aerial imagery from 3D tiles, with GPS EXIF metadata and trajectory exports | `Python` · `Flask` · `CesiumJS` |
-| 🤖 **[Market Mate](https://github.com/Geeri45/Market_Mate)** | Team project: contributed to chatbot development | `Chatbots` |
-| 🛡️ **[ThreatExchange](https://github.com/Mr-friendly-Spy/ThreatExchange)** | REST service for exchanging threat information by MD5, with Docker deployment | `Python` · `FastAPI` · `SQLite` · `Docker` |
-| 📄 **[Office_Tweaks](https://github.com/Mr-friendly-Spy/Office_Tweaks)** | CLI utility for PDF/DOCX conversion, image compression, and file management | `Python` · `CLI` |
-| 🔎 **[vulnerability-catalog](https://github.com/Mr-friendly-Spy/vulnerability-catalog)** | Imports JSON feeds into SQLite and checks product versions against a vulnerability catalog | `Python` · `SQLite` · `SQL` |
-| 🌐 **[The_Parser_](https://github.com/Mr-friendly-Spy/The_Parser_)** | Scrapes information about car service centers in Moscow and exports it to CSV | `Python` · `Parsing` |
-| 🎡 **[Wheel of Fortune](https://github.com/Mr-friendly-Spy/wheel-of-fortune-game)** | Console word-guessing game with difficulty levels, statistics, and saved high scores | `Python` · `OOP` |
+| [![Tiny Swords: Kingdoms](./assets/pixel/project-tinyswords.svg)](https://vkplay.ru/play/game/tinyswords-kingdoms-49863/) | My game, published on VK Play | `Game Development` |
+| [![open_air](./assets/pixel/project-open-air.svg)](https://github.com/EvgenieLebedev/open_air) | Team project: generates synthetic aerial imagery from 3D tiles, with GPS EXIF metadata and trajectory exports | `Python` · `Flask` · `CesiumJS` |
+| [![Market Mate](./assets/pixel/project-market-mate.svg)](https://github.com/Geeri45/Market_Mate) | Team project: contributed to chatbot development | `Chatbots` |
+| [![ThreatExchange](./assets/pixel/project-threat-exchange.svg)](https://github.com/Mr-friendly-Spy/ThreatExchange) | REST service for exchanging threat information by MD5, with Docker deployment | `Python` · `FastAPI` · `SQLite` · `Docker` |
+| [![Office_Tweaks](./assets/pixel/project-office-tweaks.svg)](https://github.com/Mr-friendly-Spy/Office_Tweaks) | CLI utility for PDF/DOCX conversion, image compression, and file management | `Python` · `CLI` |
+| [![vulnerability-catalog](./assets/pixel/project-vulnerability.svg)](https://github.com/Mr-friendly-Spy/vulnerability-catalog) | Imports JSON feeds into SQLite and checks product versions against a vulnerability catalog | `Python` · `SQLite` · `SQL` |
+| [![The_Parser_](./assets/pixel/project-parser.svg)](https://github.com/Mr-friendly-Spy/The_Parser_) | Scrapes information about car service centers in Moscow and exports it to CSV | `Python` · `Parsing` |
+| [![Wheel of Fortune](./assets/pixel/project-wheel.svg)](https://github.com/Mr-friendly-Spy/wheel-of-fortune-game) | Console word-guessing game with difficulty levels, statistics, and saved high scores | `Python` · `OOP` |
 
 <!-- STATS -->
 
-## 📊 GitHub Stats
+## <img src="./assets/pixel/heading-stats.svg" alt="06 / GITHUB STATS" height="29">
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&show_icons=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true" alt="Mr-friendly-Spy's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&layout=compact&langs_count=6&title_color=84cc16&text_color=ffffff&bg_color=0f172a&hide_border=true&custom_title=Most%20Used%20Languages" alt="Languages used in public repositories"/>
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Mr-friendly-Spy&amp;show_icons=true&amp;title_color=f4f4f0&amp;text_color=d4d4d0&amp;icon_color=f4f4f0&amp;bg_color=191919&amp;border_color=747470&amp;border_radius=0&amp;hide_border=false" alt="Mr-friendly-Spy's GitHub stats"/>
 
   <br/><br/>
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-friendly-Spy&bg_color=0f172a&color=84cc16&line=0891b2&point=ffffff&area=true&area_color=84cc16&hide_border=true&custom_title=Contribution%20Activity" alt="Mr-friendly-Spy's contribution activity"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-friendly-Spy&amp;bg_color=191919&amp;color=d4d4d0&amp;line=f4f4f0&amp;point=f4f4f0&amp;area=true&amp;area_color=747470&amp;hide_border=true&amp;custom_title=CONTRIBUTION%20ACTIVITY" alt="Mr-friendly-Spy's contribution activity"/>
+
+  <br/><br/>
+
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-friendly-Spy&amp;layout=compact&amp;langs_count=6&amp;title_color=f4f4f0&amp;text_color=d4d4d0&amp;bg_color=191919&amp;border_radius=0&amp;custom_title=LANGUAGE%20BREAKDOWN">
+    <img src="./assets/pixel/badge-language-breakdown.svg" alt="View language breakdown"/>
+  </a>
 
 </div>
 
@@ -138,8 +143,5 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 <br/>
 
-<div align="center">
-  <i>From an idea to a working tool or a playable game.</i>
-</div>
+<img width="100%" src="./assets/pixel/footer.svg" alt="From an idea to a working tool or a playable game."/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:84cc16,50:0891b2,100:0f172a&height=120&section=footer" alt="Decorative wave"/>
