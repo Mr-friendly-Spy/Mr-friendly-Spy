@@ -107,12 +107,66 @@ for(const [id,labels] of Object.entries(projects)){
  const w=Math.max(...labels.map(l=>textWidth(l)))+12,h=labels.length*20+8;
  write('project-'+id,svg(w,h,labels.join(' '),`<rect width="${w}" height="${h}" fill="${bg}"/>`+labels.map((l,i)=>pixels(l,6,6+i*20)).join('')));
 }
+// Animated SVGs use native SMIL so they also play when embedded in GitHub README images.
+const reducedMotion = '<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:inline}}</style>';
+function steppedReveal(label, start, finish, hold, erase, duration){
+ const width=textWidth(label,3), count=label.length, times=[0,start], values=[0,0];
+ for(let j=1;j<=count;j++){times.push(start+(finish-start)*j/count);values.push(j===count?width:j*18);}
+ times.push(hold);values.push(width);
+ if(erase!==null){
+  for(let j=1;j<=count;j++){times.push(hold+(erase-hold)*j/count);values.push(Math.max(0,(count-j)*18));}
+ }
+ times.push(1);values.push(erase===null?width:0);
+ return {width, values:values.join(';'), times:times.map(t=>Number(t.toFixed(6))).join(';'), duration};
+}
 const statusLines=['C++ / C# / PYTHON','UNITY / UNREAL ENGINE / GODOT','TOOLS / CHATBOTS / AUTOMATION'];
-const statusGroups=statusLines.map((l,i)=>`<g class="line line-${i}" opacity="${i===0?1:0}">${pixels(l,(854-textWidth(l,3))/2,15,3)}<animate attributeName="opacity" values="${i===0?'1;0;0;1':i===1?'0;1;0;0':'0;0;1;0'}" keyTimes="0;.333333;.666667;1" calcMode="discrete" dur="9s" repeatCount="indefinite"/></g>`).join('');
-write('status',svg(854,54,'C++, C#, Python / Unity, Unreal Engine, Godot / Tools, chatbots and automation',`<rect width="854" height="54" fill="${bg}"/><style>@media(prefers-reduced-motion:reduce){.line{display:none}.line-0{display:inline;opacity:1!important}}</style>${statusGroups}`));
-const dots=Array.from({length:107},(_,i)=>`<rect x="${i*8}" y="${i%2?4:0}" width="4" height="4" fill="${ink}" opacity=".6"/>`).join('');
+const statusGroups=statusLines.map((label,i)=>{
+ const x=(854-textWidth(label,3))/2, begin=i*6+'s', timing=steppedReveal(label,.02,.115,.265,.31,18);
+ return `<defs><clipPath id="reveal-${i}"><rect x="${x}" y="0" width="0" height="66"><animate attributeName="width" values="${timing.values}" keyTimes="${timing.times}" calcMode="discrete" dur="18s" begin="${begin}" repeatCount="indefinite"/></rect></clipPath></defs>
+ <g class="motion" opacity="0">
+ <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.025;.29;.325;1" dur="18s" begin="${begin}" repeatCount="indefinite"/>
+ <animateTransform attributeName="transform" type="translate" values="0 8;0 0;0 0;0 -10;0 -10" keyTimes="0;.035;.29;.325;1" calcMode="spline" keySplines=".22 .61 .36 1;0 0 1 1;.55 0 .8 .45;0 0 1 1" dur="18s" begin="${begin}" repeatCount="indefinite"/>
+ <g clip-path="url(#reveal-${i})">${pixels(label,x,24,3)}</g>
+ <g><rect x="${x+6}" y="45" width="12" height="3" fill="${ink}"><animate attributeName="x" values="${timing.values.split(';').map(w=>x+Number(w)+6).join(';')}" keyTimes="${timing.times}" calcMode="discrete" dur="18s" begin="${begin}" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur=".8s" repeatCount="indefinite"/></rect></g>
+ </g>`;
+}).join('');
+const track='<path d="M367 63h120" stroke="#3c3c3b" stroke-width="2"/>';
+const markers=statusLines.map((_,i)=>`<rect x="${389+i*32}" y="59" width="12" height="8" fill="${edge}"/><rect class="motion" x="${389+i*32}" y="59" width="12" height="8" fill="${ink}" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.02;.3;.333333;1" dur="18s" begin="${i*6}s" repeatCount="indefinite"/></rect>`).join('');
+write('status-animated',svg(854,78,'C++, C#, Python / Unity, Unreal Engine, Godot / Tools, chatbots and automation',
+ `<rect width="854" height="78" fill="${bg}"/>${reducedMotion}${statusGroups}<g class="still">${pixels(statusLines[0],(854-textWidth(statusLines[0],3))/2,24,3)}</g>${track}${markers}`));
+
+// A seamless, stepped wave: the geometry repeats every 432 px.
+function pixelWave(y, amplitude, color, opacity, duration, reverse=false){
+ const period=432, steps=54, width=1296;
+ let d='M0 34';
+ for(let x=0;x<=width;x+=8){
+  const h=y+Math.round(Math.sin(x/period*Math.PI*2)*amplitude/4)*4;
+  d+=`H${x}V${h}`;
+ }
+ d+=`H${width}V34Z`;
+ const values=Array.from({length:steps+1},(_,i)=>`${reverse?-period+i*8:-i*8} 0`).join(';');
+ return `<g class="motion" fill="${color}" opacity="${opacity}"><path d="${d}"/><animateTransform attributeName="transform" type="translate" values="${values}" calcMode="discrete" dur="${duration}s" repeatCount="indefinite"/></g>`;
+}
 const footerText=['FROM AN IDEA TO A WORKING TOOL','OR A PLAYABLE GAME.'];
-write('footer',svg(854,82,'From an idea to a working tool or a playable game.',`<rect width="854" height="82" fill="${bg}"/>${dots}`+footerText.map((l,i)=>pixels(l,(854-textWidth(l,2))/2,30+i*24,2)).join('')));
+const footerLines=footerText.map((label,i)=>{
+ const w=textWidth(label,2),x=(854-w)/2,y=52+i*24;
+ const times=[0,.04+i*.12], widths=[0,0];
+ for(let j=1;j<=label.length;j++){times.push(.04+i*.12+j/label.length*.18);widths.push(j===label.length?w:j*12);}
+ times.push(1);widths.push(w);
+ return `<defs><clipPath id="footer-reveal-${i}"><rect x="${x}" y="${y}" width="0" height="14"><animate attributeName="width" values="${widths.join(';')}" keyTimes="${times.map(t=>Number(t.toFixed(6))).join(';')}" calcMode="discrete" dur="9s" repeatCount="indefinite"/></rect></clipPath></defs><g clip-path="url(#footer-reveal-${i})">${pixels(label,x,y,2)}</g>`;
+}).join('');
+const sparks=Array.from({length:8},(_,i)=>{
+ const x=i<4?50+i*24:728+(i-4)*24;
+ return `<rect class="motion" x="${x}" y="105" width="4" height="4" fill="${ink}" opacity="0"><animate attributeName="y" values="105;39" dur="4s" begin="${-(i*.5)}s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.65;.65;0" keyTimes="0;.2;.6;1" dur="4s" begin="${-(i*.5)}s" repeatCount="indefinite"/></rect>`;
+}).join('');
+const staticFooter=footerText.map((l,i)=>pixels(l,(854-textWidth(l,2))/2,52+i*24,2)).join('');
+write('footer-animated',svg(854,118,'From an idea to a working tool or a playable game.',
+ `<rect width="854" height="118" fill="${bg}"/>${reducedMotion}
+ ${pixelWave(13,8,edge,.5,8)}${pixelWave(21,8,ink,.85,6,true)}
+ <g class="motion" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.07;.84;.97;1" dur="9s" repeatCount="indefinite"/>${footerLines}</g>
+ <g class="still"><path d="M0 24H854" stroke="${edge}" stroke-width="4"/>${staticFooter}</g>
+ ${sparks}<path d="M344 106h166" stroke="#3c3c3b" stroke-width="2"/>
+ <rect class="motion" x="344" y="104" width="12" height="4" fill="${ink}"><animate attributeName="x" values="344;498;344" keyTimes="0;.5;1" dur="6s" repeatCount="indefinite"/></rect>`));
 fs.writeFileSync(path.join(root,'pixel-ui-manifest.json'),JSON.stringify(manifest));
 console.log(JSON.stringify({assets:Object.keys(manifest).length,bytes:Object.values(manifest).reduce((n,s)=>n+Buffer.byteLength(s),0)}));
 

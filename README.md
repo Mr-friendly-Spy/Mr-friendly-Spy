@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img width="100%" src="./assets/pixel/status.svg" alt="C++, C#, Python / Unity, Unreal Engine, Godot / Tools, chatbots and automation"/>
+  <img width="100%" src="./assets/pixel/status-animated.svg" alt="C++, C#, Python / Unity, Unreal Engine, Godot / Tools, chatbots and automation"/>
 
   <br/><br/>
 
@@ -143,5 +143,5 @@ I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gae
 
 <br/>
 
-<img width="100%" src="./assets/pixel/footer.svg" alt="From an idea to a working tool or a playable game."/>
+<img width="100%" src="./assets/pixel/footer-animated.svg" alt="From an idea to a working tool or a playable game."/>
 
