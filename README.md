@@ -32,10 +32,10 @@
 ```text
 name:       Egorik
 nickname:   Mr-friendly-Spy
-focus:      Game Development · Software Development
+focus:      Software Development · Game Development · Reverse Engineering
 languages:  C++ · C# · Python
-building:   games · tools · REST APIs · chatbots
-approach:   OOP · software design · hands-on development
+building:   tools · games · web services · REST APIs · chatbots
+approach:   OOP · software design · hands-on development · unit testing
 ```
 
 I work with **Unity**, **Unreal Engine**, and **Godot**, create terrain in **Gaea**, and design mockups and UML diagrams in **Figma**. I have experience with **Linux**, **Docker** containers, **VirtualBox** virtual machines, and **VK Cloud** services. I use **Ghidra** to explore and analyze software.
