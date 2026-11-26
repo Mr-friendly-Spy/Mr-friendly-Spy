@@ -1,7 +1,7 @@
 <!-- HEADER -->
 
 <a href="https://github.com/Mr-friendly-Spy">
-  <img width="100%" src="./assets/pixel/profile-banner-animated.svg" alt="Mr-friendly-Spy — monochrome pixel art game development and coding banner"/>
+  <img width="100%" src="./assets/pixel/profile-banner-color-animated.svg" alt="Mr-friendly-Spy — colorful pixel art game development and coding banner"/>
 </a>
 
 <div align="center">
